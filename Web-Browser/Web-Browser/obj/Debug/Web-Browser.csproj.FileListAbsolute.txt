@@ -1,0 +1,10 @@
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\bin\Debug\Web-Browser.exe.config
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\bin\Debug\Web-Browser.exe
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\bin\Debug\Web-Browser.pdb
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\obj\Debug\Web-Browser.csproj.AssemblyReference.cache
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\obj\Debug\Web-Browser.csproj.GenerateResource.cache
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\obj\Debug\Web-Browser.csproj.CoreCompileInputs.cache
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\obj\Debug\Web-Browser.exe
+C:\Users\quoch\source\repos\Web-Browser\Web-Browser\obj\Debug\Web-Browser.pdb
